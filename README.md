@@ -22,20 +22,18 @@ El objetivo es evaluar tu forma de organizar el código, manejo de estados, cons
 - Hacerlo **responsive**.  
 - Manejo de errores más detallado (ej. red, formato de respuesta, etc.).  
 
----
-
-## 🔥 Extras (si quieres ir más allá)
-
-- Uso de alguna librería para UI (ej. Tailwind, Material UI, Shadcn, etc.) o diseño propio.  
-- Manejo de estado global (ej. Redux, Zustand, Context).  
-- Animaciones o transiciones sutiles.  
-
----
+--
 
 ## 🎨 Condiciones
 
 - El diseño es **libre y único**, queremos ver tu estilo.  
 - Puedes usar `fetch` o `axios` (a tu elección).  
+
+---
+
+## 🔥 Opcional
+
+- Haz una interfaz de calidad alta, tienes la libertad de incorporar lo que tu creas necesario.
 
 ---
 
