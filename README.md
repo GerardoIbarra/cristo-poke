@@ -1,8 +1,50 @@
-# React + Tailwind
+# 🚀 Prueba Técnica – Pokédex Jr Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules. One top of the standard Vite setup, [tailwindcss](https://tailwindcss.com/) is installed and ready to be used in React components.
+Debes crear una aplicación simple en **React** que consuma la API pública [PokéAPI](https://pokeapi.co/).  
+El objetivo es evaluar tu forma de organizar el código, manejo de estados, consumo de API y creatividad en el diseño.  
 
-Additional references:
-* [Getting started with Vite](https://vitejs.dev/guide/)
-* [Tailwind documentation](https://tailwindcss.com/docs/installation)
+---
 
+## 📌 Requisitos mínimos
+
+- Input de búsqueda por **nombre o ID**.  
+- Mostrar una lista de Pokémon con: **nombre, imagen, tipo(s), peso y altura**.  
+- Al dar click en la **card de un Pokémon**, mostrar información **más detallada** (puede ser en una nueva vista, modal o como prefieras).  
+- Mostrar un mensaje de error si no se encuentra el Pokémon.  
+- Mostrar un **indicador de carga** mientras se trae la información.  
+
+---
+
+## ⭐ Opcionales (no obligatorios, pero suman puntos)
+
+- Paginación de la lista inicial de Pokémon.  
+- Mostrar **stats** en barras de progreso.  
+- Hacerlo **responsive**.  
+- Manejo de errores más detallado (ej. red, formato de respuesta, etc.).  
+
+---
+
+## 🔥 Extras (si quieres ir más allá)
+
+- Uso de alguna librería para UI (ej. Tailwind, Material UI, Shadcn, etc.) o diseño propio.  
+- Manejo de estado global (ej. Redux, Zustand, Context).  
+- Animaciones o transiciones sutiles.  
+
+---
+
+## 🎨 Condiciones
+
+- El diseño es **libre y único**, queremos ver tu estilo.  
+- Puedes usar `fetch` o `axios` (a tu elección).  
+
+---
+
+## ✅ Entrega
+
+- Subir el proyecto a un repositorio en GitHub/GitLab.  
+- Incluir un archivo **README.md** con instrucciones para ejecutar el proyecto.  
+- Compartir el link al repositorio.  
+
+---
+
+¡Mucha suerte y diviértete programando tu Pokédex! ⚡
